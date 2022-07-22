@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 I'm currently working on a project named "PyGame Novel" (NovelPy for short), now I'm going to change the coding way to more difficult so it took a lot time now!
 
@@ -11,3 +11,7 @@ In the first version, I'm using PyGame SDL2 for the project then changed to PyGa
 So I'm going remake project if I don't want too much bug appear as good!
 
 I will upload the releases as soon as I done it and public!
+
+#  About "PyGame Main Menu" (MenuPy for short)
+
+A template I made for easy to create menus, and also it's a part of NovelPy as well
