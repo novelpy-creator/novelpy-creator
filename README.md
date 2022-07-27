@@ -12,6 +12,6 @@ So I'm going remake project if I don't want too much bug appear as good!
 
 I will upload the releases as soon as I done it and public!
 
-#  About "PyGame Main Menu" (MenuPy for short)
+#  About "PyGame Main Menu" (MenuPy for short) [Archived]
 
 A template I made for easy to create menus, and also it's a part of NovelPy as well
