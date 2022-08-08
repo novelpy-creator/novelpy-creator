@@ -1,8 +1,6 @@
 # Hi there 👋
 
-I'm currently working on a project named "PyGame Novel" (NovelPy for short), now I'm going to change the coding way to more difficult so it took a lot time now!
-
-The project will took more disk space in my computer more than before...
+I'm currently working on a project named "PyGame Novel" (NovelPy for short), it's still in development.
 
 # About "PyGame Novel" (NovelPy for short)
 
