@@ -6,12 +6,8 @@ The project will took more disk space in my computer more than before...
 
 # About "PyGame Novel" (NovelPy for short)
 
-In the first version, I'm using PyGame SDL2 for the project then changed to PyGame on next version for easily find needed stuff I want!
-
-So I'm going remake project if I don't want too much bug appear as good!
-
-I will upload the releases as soon as I done it and public!
+A kinectic novel project using pygame.
 
 #  About "PyGame Main Menu" (MenuPy for short) [Archived]
 
-A template I made for easy to create menus, and also it's a part of NovelPy as well
+A template I made for easy to create menus, and also it's a part of NovelPy as well (last used in "devel" version)
