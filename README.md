@@ -12,6 +12,6 @@ Documentation of my kinectic novel project using pygame.
 
 It's only included one tutorial, so it's still in development (use sphinx-build to compile it yourself.)
 
-#  About "PyGame Main Menu" (MenuPy for short) [Archived]
+#  About "PyGame Main Menu" (NovelPy Menu for short) [Archived]
 
 A template I made for easy to create menus, and also it's a part of NovelPy as well (last used in "devel" version)
