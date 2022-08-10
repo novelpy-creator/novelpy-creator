@@ -14,7 +14,7 @@ A template kinectic novel project using pygame for PyGame Novel.
 
 Documentation of my kinectic novel project using pygame.
 
-It's only included one tutorial, so it's still in development (use sphinx-build to compile it yourself.)
+It's only included one tutorial, so it's still in development (use sphinx-build to compile it yourself, also I will not sphinx in later version, I will write html code myself.)
 
 #  About "PyGame Main Menu" (NovelPy Menu for short) [Archived]
 
