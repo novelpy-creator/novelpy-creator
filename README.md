@@ -2,9 +2,13 @@
 
 I'm currently working on a project named "PyGame Novel" (NovelPy for short), it's still in development.
 
-# About "PyGame Novel" (NovelPy for short)
+# About "PyGame Novel" (NovelPy for short) [Archived]
 
 A kinectic novel project using pygame.
+
+# About "PyGame Novel 2.0" (NovelPy Reimagined for short)
+
+A new version of my kinectic novel project using pygame. (includes new features, currently on progess.)
 
 # About "PyGame Novel Template" (NovelPy Template for short)
 
