@@ -10,10 +10,6 @@ A kinectic novel project using pygame.
 
 A new version of my kinectic novel project using pygame. (includes new features, currently on progess.)
 
-# About "PyGame Novel Template" (NovelPy Template for short)
-
-A template kinectic novel project using pygame for PyGame Novel.
-
 # About "PyGame Novel Documentation" (NovelPy Doc for short)
 
 Documentation of my kinectic novel project using pygame.
