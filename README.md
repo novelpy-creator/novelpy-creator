@@ -6,7 +6,7 @@ I'm currently working on a project named "PyGame Novel" (NovelPy for short), it'
 
 A kinectic novel project using pygame.
 
-# About "PyGame Novel 2.0" (NovelPy Reimagined for short)
+# About "PyGame Novel 2.0" (NovelPy Reimagined/NovelPy-Two for short)
 
 A new version of my kinectic novel project using pygame. (includes new features, currently on progess.)
 
