@@ -10,7 +10,7 @@ A kinectic novel project using pygame.
 
 A new version of my kinectic novel project using pygame. (includes new features, currently on progess.)
 
-# About "PyGame Novel Documentation" (NovelPy Doc for short)
+# About "PyGame Novel Documentation" (NovelPy Doc for short) [Removed]
 
 Documentation of my kinectic novel project using pygame.
 
